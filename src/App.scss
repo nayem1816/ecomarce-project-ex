@@ -1,0 +1,19 @@
+// font-family: 'Open Sans', sans-serif;
+// font-family: 'Roboto', sans-serif;
+
+
+$textWhite: #fff;
+$textBlack: #0000;
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.text-white{
+    color: $textWhite;
+}
+.text-black{
+    color: $textBlack;
+}
